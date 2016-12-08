@@ -1,2 +1,4 @@
 Push trang thai xung dot
 \nXu ly push trong trang thai xung dot
+Push test2
+\nXu ly xung dot trong test2
